@@ -1,15 +1,21 @@
 <a href="#">
-  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Seftirobim&layout=compact&langs_count=8&card_width=320&theme=codeSTACKr" />
+  <img height=230 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Seftirobim&layout=compact&langs_count=8&card_width=320&theme=codeSTACKr" />
 </a>
 
 ```python
-Hi 👋   
-
+Hi 👋  
+{
+  "xvanvcsmvkrt": {
+     "trmdpszkwzpr": "Am5mXLhAqpTca",
+     "ldjnfamwbrwb": 1102840905
+  },
+  "hhlds": true,
+  "ydconjxiez": -511247918,
+  "rqsofcm": 1827436883
+}
 
 ```
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Seftirobim&style=for-the-badge&label=%F0%9F%91%80+Profile+Views">
-</p>
+![](https://hit.yhype.me/github/profile?user_id=16395774)
 
 
 <!--
