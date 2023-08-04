@@ -1,5 +1,5 @@
 <a href="#">
-  <img height=230 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Seftirobim&layout=compact&langs_count=8&card_width=320&theme=codeSTACKr" />
+  <img height=230 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Seftirobim&layout=compact&langs_count=10&card_width=320&theme=codeSTACKr&hide=php" />
 </a>
 
 ```python
